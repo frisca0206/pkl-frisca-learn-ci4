@@ -18,7 +18,7 @@
             outline: none;
         }
         html, body {
-            color: lightblue;
+            color: rgba(33, 37, 41, 1);
             font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
             font-size: 16px;
             margin: 0;
@@ -28,7 +28,7 @@
             text-rendering: optimizeLegibility;
         }
         header {
-            background-color: rgba(247, 248, 249, 1);
+            background-color: lightblue;
             padding: .4rem 0 0;
         }
         .menu {
