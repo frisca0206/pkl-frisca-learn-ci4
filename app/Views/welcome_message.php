@@ -220,9 +220,7 @@
 
     <div class="heroe">
 
-        <h1>Nama Lengkap: Frisca Febri Yanti<?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
-        <h1>Kelas: XII RPL 2<?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
-        <h1>Sekolah: SMKN 7 Batam<?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
+        <h1>Welcome To Codeigniter<?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
 
         <h2>The small framework with powerful features</h2>
 
