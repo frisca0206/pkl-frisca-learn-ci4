@@ -28,7 +28,7 @@
             text-rendering: optimizeLegibility;
         }
         header {
-            background-color: lightblue;
+            background-color: blue;
             padding: .4rem 0 0;
         }
         .menu {
