@@ -28,7 +28,7 @@
             text-rendering: optimizeLegibility;
         }
         header {
-            background-color: blue;
+            background-color: peru;
             padding: .4rem 0 0;
         }
         .menu {
